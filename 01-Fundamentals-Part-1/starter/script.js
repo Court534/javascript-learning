@@ -33,14 +33,21 @@
 // Let, Const and Var
 
 // You can change a let variable
-let age = 30;
-age = 31;
+// let age = 30;
+// age = 31;
 
 // You can't change a const variable
-const birthYear = 1994;
+// const birthYear = 1994;
 // birthYear = 1991 <-- You can't do this
 
 // Old practice that people do not use anymore. Work similar to let
-var job = 'programmer'
-job = 'teacher'
-console.log(job);
+// var job = 'programmer'
+// job = 'teacher'
+// console.log(job);
+
+// Basic Operators
+
+const currentYear = 2022
+const ageCourtney = currentYear - 1994;
+const ageIsabelle = currentYear - 1996;
+console.log(ageCourtney, ageIsabelle);
