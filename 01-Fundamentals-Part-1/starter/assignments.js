@@ -3,10 +3,10 @@
 // assign their values according to your own country (population in millions)
 // 2. Log their values to the console
 
-let country = 'England';
-let continent = 'Europe';
-let population = '56 Million';
-console.log(country, continent, population)
+// let country = 'England';
+// let continent = 'Europe';
+// let population = '56 Million';
+// console.log(country, continent, population)
 
 // LECTURE: Data Types
 // 1. Declare a variable called 'isIsland' and set its value according to your
@@ -15,6 +15,6 @@ console.log(country, continent, population)
 // 2. Log the types of 'isIsland', 'population', 'country' and 'language'
 // to the console
 
-let isIsland = true;
-let language = '';
-console.log(isIsland, population, country, language);
+// let isIsland = true;
+// let language = '';
+// console.log(isIsland, population, country, language);

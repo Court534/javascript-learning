@@ -51,3 +51,18 @@ const currentYear = 2022
 const ageCourtney = currentYear - 1994;
 const ageIsabelle = currentYear - 1996;
 console.log(ageCourtney, ageIsabelle);
+
+const firstName = 'Courtney';
+const lastName = 'Stow';
+console.log(firstName + ' ' + lastName)
+
+let x = 10 + 5; // 15
+x += 10; // x = x + 10 = 25
+x *= 4; // x = x * 4 = 100
+console.log(x);
+
+// Comparison Operators 
+console.log()
+
+
+
