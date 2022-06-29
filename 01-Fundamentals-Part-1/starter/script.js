@@ -87,6 +87,8 @@ const year = 2022
 const courtney = "I'm " + firstName + ', a ' + job + ' and I am ' + (year - birthYear) + ' years old'; // This will print I'm Courtney, a Developer and I am 28 years old
 console.log(courtney) 
 
+const courtneyNew = `I'm ${firstName}, a ${job} and I am ${(year - birthYear)} years old`; // This prints exactly the same as above
+console.log(courtneyNew)
 
 
 
