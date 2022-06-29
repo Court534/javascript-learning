@@ -67,14 +67,38 @@
 // console.log(ageIsabelle >= 18) // true
 // console.log(ageIsabelle <= 26) // true
 
-const currentYear = 2022;
-const ageCourtney = currentYear - 1994;
-const ageIsabelle = currentYear - 1996;
-console.log(currentYear - 1994 > currentYear - 1996);
+// const currentYear = 2022;
+// const ageCourtney = currentYear - 1994;
+// const ageIsabelle = currentYear - 1996;
+// console.log(currentYear - 1994 > currentYear - 1996);
 
-let x, y;
-x = y = 25 - 10 - 5;
-console.log(x, y);
+// let x, y;
+// x = y = 25 - 10 - 5;
+// console.log(x, y);
 
-const averageAge = (ageCourtney + ageIsabelle) / 2
-console.log(ageCourtney, ageIsabelle, averageAge)
+// const averageAge = (ageCourtney + ageIsabelle) / 2
+// console.log(ageCourtney, ageIsabelle, averageAge)
+
+const firstName = 'Courtney';
+const job = 'Developer';
+const birthYear = 1994;
+const year = 2022
+
+const courtney = "I'm " + firstName + ', a ' + job + ' and I am ' + (year - birthYear) + ' years old'; // This will print I'm Courtney, a Developer and I am 28 years old
+console.log(courtney) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
