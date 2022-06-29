@@ -67,5 +67,14 @@
 // console.log(ageIsabelle >= 18) // true
 // console.log(ageIsabelle <= 26) // true
 
+const currentYear = 2022;
+const ageCourtney = currentYear - 1994;
+const ageIsabelle = currentYear - 1996;
+console.log(currentYear - 1994 > currentYear - 1996);
 
+let x, y;
+x = y = 25 - 10 - 5;
+console.log(x, y);
 
+const averageAge = (ageCourtney + ageIsabelle) / 2
+console.log(ageCourtney, ageIsabelle, averageAge)

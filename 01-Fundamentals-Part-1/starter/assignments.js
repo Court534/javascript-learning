@@ -31,20 +31,20 @@
 // which contains a string with this format: 'Portugal is in Europe, and its 11 million
 // people speak portuguese'
 
-let country = 'England';
-let continent = 'Europe';
-let population = 56000000;
+// let country = 'England';
+// let continent = 'Europe';
+// let population = 56000000;
 
-population = population / 2;
+// population = population / 2;
 
-console.log(population += 1)
+// console.log(population += 1)
 
-population = 56000000
-let finlandPopulation = 6000000;
-console.log(population > finlandPopulation)
+// population = 56000000
+// let finlandPopulation = 6000000;
+// console.log(population > finlandPopulation)
 
-let averagePopulation = 33000000
-console.log(population > averagePopulation)
+// let averagePopulation = 33000000
+// console.log(population > averagePopulation)
 
-let description = 'Portugal is in Europe, its 11 million people speak portuguese'
-console.log(description)
+// let description = 'Portugal is in Europe, its 11 million people speak portuguese'
+// console.log(description)
