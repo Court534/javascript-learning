@@ -10,6 +10,7 @@
 // let javascriptIsFun = true;
 // console.log(javascriptIsFun)
 
+
 // Data Types 
 
 // console.log(typeof true);
@@ -30,6 +31,7 @@
 
 // console.log(typeof null);
 
+
 // Let, Const and Var
 
 // You can change a let variable
@@ -44,6 +46,7 @@
 // var job = 'programmer'
 // job = 'teacher'
 // console.log(job);
+
 
 // Basic Operators
 
@@ -79,23 +82,28 @@
 // const averageAge = (ageCourtney + ageIsabelle) / 2
 // console.log(ageCourtney, ageIsabelle, averageAge)
 
-const firstName = 'Courtney';
-const job = 'Developer';
-const birthYear = 1994;
-const year = 2022;
 
-const courtney = "I'm " + firstName + ', a ' + job + ' and I am ' + (year - birthYear) + ' years old'; // This will print I'm Courtney, a Developer and I am 28 years old
-console.log(courtney); 
+// String literals and Template literals
 
-const courtneyNew = `I'm ${firstName}, a ${job} and I am ${(year - birthYear)} years old`; // This prints exactly the same as above
-console.log(courtneyNew);
+// const firstName = 'Courtney';
+// const job = 'Developer';
+// const birthYear = 1994;
+// const year = 2022;
 
-console.log(`Back-ticks can be used to write normal strings just like this`);
+// const courtney = "I'm " + firstName + ', a ' + job + ' and I am ' + (year - birthYear) + ' years old'; // This will print I'm Courtney, a Developer and I am 28 years old
+// console.log(courtney); 
 
-console.log(`String
- on
-multiple
-lines`);
+// const courtneyNew = `I'm ${firstName}, a ${job} and I am ${(year - birthYear)} years old`; // This prints exactly the same as above
+// console.log(courtneyNew);
+
+// console.log(`Back-ticks can be used to write normal strings just like this`);
+
+// console.log(`String
+//  on
+// multiple
+// lines`);
+
+
 
 
 
