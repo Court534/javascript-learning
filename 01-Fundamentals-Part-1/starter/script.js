@@ -82,15 +82,20 @@
 const firstName = 'Courtney';
 const job = 'Developer';
 const birthYear = 1994;
-const year = 2022
+const year = 2022;
 
 const courtney = "I'm " + firstName + ', a ' + job + ' and I am ' + (year - birthYear) + ' years old'; // This will print I'm Courtney, a Developer and I am 28 years old
-console.log(courtney) 
+console.log(courtney); 
 
 const courtneyNew = `I'm ${firstName}, a ${job} and I am ${(year - birthYear)} years old`; // This prints exactly the same as above
-console.log(courtneyNew)
+console.log(courtneyNew);
 
+console.log(`Back-ticks can be used to write normal strings just like this`);
 
+console.log(`String
+ on
+multiple
+lines`);
 
 
 
